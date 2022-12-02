@@ -10,7 +10,7 @@ Some renewable power from the binary star system of Akycha!
 
 ## Building Cost
 
-4 Photovoltaic Cells
+* 4 Photovoltaic Cells
 
 ## Building Unlock Tier:Tier 3
 
