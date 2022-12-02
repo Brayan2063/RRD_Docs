@@ -10,8 +10,13 @@ Some renewable power from the binary star system of Akycha!
 
 ## Building Cost
 
-4 Photovoltaic Cells
+* 4 Photovoltaic Cell
 
 ## Building Unlock Tier:Tier 3
 
 image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/SMR%20Images/Refined%20Power/Solar/Solar%20Mk1%20Edited.png[]
+
+## Dimensions
+Width:  4m
+Length: 4m
+Height: 0.5m
