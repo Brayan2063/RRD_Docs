@@ -7,7 +7,8 @@ Mk.1 water turbines can only be placed on dedicated nodes placed all around the 
 Some sploosh power for your factory without item input!
 
 ## Building cost
-50 steel pipes & 150 copper wire
+* 50  Steel Pipe
+* 150 Wire
 
 ## Building unlock tier: Tier 3
 
