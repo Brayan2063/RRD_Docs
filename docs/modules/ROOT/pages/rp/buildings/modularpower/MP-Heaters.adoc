@@ -54,3 +54,27 @@ The Nuclear heater can produce 2{nbsp}000{nbsp}℃ heat and can be fed with the 
 | Plutonium|2{nbsp}000|0.0625|Plutonium Waste (Vanilla)| 0.625
 | Advanced Reactor Cores|2{nbsp}000|0.125|Advanced Reactor Casing| 0.125
 |===
+
+== Building Costs:
+
+=== Biomas Heater
+* 12 Reinforced Iron Plate
+* 3  Modular Frame
+* 20 Cable
+
+=== Coal Heater
+* 20 Reinforced Iron Plate
+* 5  Modular Frame
+* 50 Cable
+
+=== Solution Heater
+* 6  Heavy Modular Frame
+* 5  Computer
+* 40 Rubber
+* 50 Quickwire
+
+=== Nuclear Heater
+* 100 Concrete
+* 50  Cable
+* 14  High-Speed Connector
+* 5   Supercomputer
