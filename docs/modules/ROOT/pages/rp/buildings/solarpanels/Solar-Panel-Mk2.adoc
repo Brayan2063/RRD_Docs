@@ -11,10 +11,10 @@ Some Renewable power from the binary star system of Akycha!
 
 == Building Cost
 
-* 10x Heavy Modular Frames
-* 30x Photovoltaic Cells
-* 20x Steel Pipes
-* 25x Cable
+* 10 Heavy Modular Frame
+* 30 Photovoltaic Cell
+* 20 Steel Pipe
+* 25 Cable
 
 == Building Unlock Tier: Tier 5
 
